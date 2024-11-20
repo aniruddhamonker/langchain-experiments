@@ -10,4 +10,4 @@ Think of these notebooks as a “shortcut” to help you get up and running with
 ## How to Reference These Notebooks
 To make the learning process smoother, I’ve divided the entire content into chapters. Each chapter builds on the previous one, so it's important to follow them in order for a clearer understanding of Langchain's core concepts and workflows. The chapters are designed to gradually increase in complexity, guiding you step-by-step through everything you need to know to start using Langchain effectively.
 
-As of publishing this today, there are seven chapters, and this is a work in progress. I’ll continue to add more content as time allows. Langchain is evolving rapidly, and staying up-to-date in this ever-growing AI space is essential, so I plan to keep expanding this guide as Langchain continues to develop.
+As of publishing this today, there are 8 chapters, and this is a work in progress. I’ll continue to add more content as time allows. Langchain is evolving rapidly, and staying up-to-date in this ever-growing AI space is essential, so I plan to keep expanding this guide as Langchain continues to develop.
